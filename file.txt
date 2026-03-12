@@ -6,3 +6,4 @@ line3 in remote dev
 line4 in local dev
 line5 in local dev
 line6 in local dev
+line7 in remote dev
