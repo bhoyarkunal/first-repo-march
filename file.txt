@@ -11,3 +11,4 @@ line8 in remote dev
 line9 in remote dev
 line10 in local dev
 line11 in remote dev
+line12 in local dev
